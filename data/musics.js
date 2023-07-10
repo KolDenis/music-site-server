@@ -1,0 +1,25 @@
+let musics = [
+    { id: 1, name: "Без Тебе Мене Нема", fileName: "audio/def/Океан Ельзи - Без Тебе Мене Нема.mp3", creator: 1 },
+    { id: 2, name: "Не йди", fileName: "audio/def/Океан Ельзи - Не Йди.mp3", creator: 1 },
+    { id: 3, name: "Не твоя війна", fileName: "audio/def/Океан Ельзи - Не твоя війна.mp3", creator: 1 },
+    { id: 4, name: "Обійми", fileName: "audio/def/Океан Ельзи - Обійми.mp3", creator: 1 },
+    { id: 5, name: "Без Бою", fileName: "audio/def/Океан Ельзи (Океан Эльзы) - Без Бою.mp3", creator: 1 },
+    { id: 6, name: "Лист До Мами", fileName: "audio/def/Океан Ельзи (Океан Эльзы) - Лист До Мами.mp3", creator: 1 },
+    { id: 7, name: "Сьогодні", fileName: "audio/def/Океан Ельзи (Океан Эльзы) - Сьогодні.mp3", creator: 1 },
+    { id: 8, name: "Відстань", fileName: "audio/def/Скрябін - Відстань.mp3", creator: 2 },
+    { id: 9, name: "Говорили і курили", fileName: "audio/def/Скрябін - Говорили і курили.mp3", creator: 2 },
+    { id: 10, name: "Кинули", fileName: "audio/def/Скрябін - Кинули.mp3", creator: 2 },
+    { id: 11, name: "Люди Як Кораблі", fileName: "audio/def/Скрябін - Люди Як Кораблі.mp3", creator: 2 },
+    { id: 12, name: "Мам", fileName: "audio/def/Скрябін - Мам.mp3", creator: 2 },
+    { id: 13, name: "Маршрутка", fileName: "audio/def/Скрябін - Маршрутка.mp3", creator: 2 },
+    { id: 14, name: "TDME", fileName: "audio/def/Антитіла - TDME.mp3", creator: 3 },
+    { id: 15, name: "Вірила", fileName: "audio/def/Антитіла - Вірила.mp3", creator: 3 },
+    { id: 16, name: "Кіно", fileName: "audio/def/Антитіла - Кіно.mp3", creator: 3 },
+    { id: 17, name: "Маскарад", fileName: "audio/def/Антитіла - Маскарад.mp3", creator: 3 },
+    { id: 18, name: "Молоком", fileName: "audio/def/Антитіла - Молоком.mp3", creator: 3 },
+    { id: 19, name: "Птаха", fileName: "audio/def/Антитіла - Птаха.mp3", creator: 3 },
+    { id: 20, name: "Стань", fileName: "audio/def/Антитіла - Стань.mp3", creator: 3 },
+    { id: 21, name: "Фортеця Бахмут", fileName: "audio/def/Антитіла - Фортеця Бахмут.mp3", creator: 3 },
+  ];
+
+  module.exports = musics;

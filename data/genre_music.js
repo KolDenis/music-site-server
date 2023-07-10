@@ -1,0 +1,27 @@
+let genre_music = [
+    {id: 1, musicId: 1, genreId: 1},
+    {id: 2, musicId: 11, genreId: 2},
+    {id: 3, musicId: 21, genreId: 8},
+    {id: 4, musicId: 19, genreId: 4},
+    {id: 5, musicId: 7, genreId: 7},
+    {id: 6, musicId: 8, genreId: 6},
+    {id: 7, musicId: 19, genreId: 10},
+    {id: 8, musicId: 15, genreId: 10},
+    {id: 9, musicId: 2, genreId: 5},
+    {id: 10, musicId: 3, genreId: 4},
+    {id: 11, musicId: 11, genreId: 3},
+    {id: 12, musicId: 12, genreId: 5},
+    {id: 13, musicId: 13, genreId: 6},
+    {id: 14, musicId: 15, genreId: 8},
+    {id: 15, musicId: 16, genreId: 9},
+    {id: 16, musicId: 3, genreId: 1},
+    {id: 17, musicId: 4, genreId: 2},
+    {id: 18, musicId: 5, genreId: 9},
+    {id: 19, musicId: 6, genreId: 2},
+    {id: 20, musicId: 19, genreId: 3},
+    {id: 21, musicId: 20, genreId: 1},
+    {id: 22, musicId: 11, genreId: 6},
+    {id: 23, musicId: 12, genreId: 7},
+];
+
+module.exports = genre_music;
