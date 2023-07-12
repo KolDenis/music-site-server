@@ -1,7 +1,29 @@
 const creators = [
     { id: 1, name: "Океан Ельзи", image: "images/def/oe.jpg" },
     { id: 2, name: "Скрябін", image: "images/def/skr.jpg" },
-    { id: 3, name: "Антитіла", image: "images/def/antit-la.jpg" }
+    { id: 3, name: "Антитіла", image: "images/def/antit-la.jpg" },
+    { id: 25, name: "Artist"},
+    { id: 4, name: "Artist"},
+    { id: 5, name: "Artist"},
+    { id: 6, name: "Artist"},
+    { id: 7, name: "Artist"},
+    { id: 8, name: "Artist"},
+    { id: 9, name: "Artist"},
+    { id: 10, name: "Artist"},
+    { id: 11, name: "Artist"},
+    { id: 12, name: "Artist"},
+    { id: 13, name: "Artist"},
+    { id: 14, name: "Artist"},
+    { id: 15, name: "Artist"},
+    { id: 16, name: "Artist"},
+    { id: 17, name: "Artist"},
+    { id: 18, name: "Artist"},
+    { id: 19, name: "Artist"},
+    { id: 20, name: "Artist"},
+    { id: 21, name: "Artist"},
+    { id: 22, name: "Artist"},
+    { id: 23, name: "Artist"},
+    { id: 24, name: "Artist"},
   ];
 
   module.exports = creators;
